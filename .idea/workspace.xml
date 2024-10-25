@@ -5,22 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4634dd2e-67ca-4f6b-b45c-6a49306aa599" name="Changes" comment="verifying Tomcat">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CheckPalindromeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CheckPalindromeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FibonacciServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FibonacciServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TempConverterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TempConverterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/countFrequencyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/countFrequencyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Palidrome.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Palidrome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/TemperatureConverter.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/TemperatureConverter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/converterresult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/converterresult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/error.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/fiboResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/fiboResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/fibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/fibonacci.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/inputFrequency.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/inputFrequency.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/palindromeResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/palindromeResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Areeba-Abdul-Rasool&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Areeba-Abdul-Rasool/javaServlets.git&quot;,
+    &quot;accountId&quot;: &quot;79437443-fce0-44d2-9a9b-bc77da51917d&quot;
+  }
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -28,27 +60,35 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nQDSqPPh1eDFvqGrl6XFyQIYNa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Smart Tomcat.Tomcat.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.JavaServlets [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Tomcat.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NCS\Desktop\JavaServlets\src\main\webapp" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
@@ -59,9 +99,6 @@
       <option name="catalinaBase" value="C:\Users\NCS\.SmartTomcat\JavaServlets\JavaServlets" />
       <option name="contextPath" value="/JavaServlets" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="envOptions">
-        <map />
-      </option>
       <option name="extraClassPath" value="" />
       <option name="port" value="8081" />
       <option name="tomcatInfo">
@@ -87,7 +124,27 @@
       <option name="presentableId" value="Default" />
       <updated>1728896410248</updated>
     </task>
+    <task id="LOCAL-00001" summary="verifying Tomcat">
+      <option name="closed" value="true" />
+      <created>1728897867741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728897867741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="verifying Tomcat" />

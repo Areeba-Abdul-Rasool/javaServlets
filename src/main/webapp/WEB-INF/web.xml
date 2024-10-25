@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
-         http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
-         version="3.1">
-    <display-name>Archetype Created Web Application</display-name>
-    <!-- Additional configuration goes here -->
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+        http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+        version="4.0">
+
+<!--    servlets config-->
+    <servlet>
+        <servlet-name>CalculatorServlet</servlet-name>
+        <servlet-class>CalculatorServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CalculatorServlet</servlet-name>
+        <url-pattern>/calculate</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>TempConverterServlet</servlet-name>
+        <servlet-class>TempConverterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TempConverterServlet</servlet-name>
+        <url-pattern>/convert</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CheckPalindromeServlet</servlet-name>
+        <servlet-class>CheckPalindromeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CheckPalindromeServlet</servlet-name>
+        <url-pattern>/checkPalindrome</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>FibonacciServlet</servlet-name>
+        <servlet-class>FibonacciServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>FibonacciServlet</servlet-name>
+        <url-pattern>/generateFibonacci</url-pattern>
+    </servlet-mapping>
+
+
+
+
 </web-app>
